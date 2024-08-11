@@ -4,6 +4,12 @@
 - type: dates
   title: Experience
   url: /experience/
+- type: dates
+  title: Awards
+  url: /awards/
+- type: dates
+  title: Skills
+  url: /skills/
 #- type: categories
 #  title: Categories
 #  url: /categories/
