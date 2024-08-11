@@ -1,11 +1,11 @@
 # Setup
-title: Not Pure Poole
-description: A simple, beautiful, and powerful Jekyll theme for blogs
-url: https://vszhub.github.io
-avatar: /avatar.jpeg
+title: Hanguang Yu
+description: Master with China University of Geosciences, Beijing, China
+url: https://hanguangyyy.github.io/Hanguangyu.github/
+avatar: /head.jpeg
 paginate: 5
 permalink: pretty
-cover_image: /bg.jpeg
+cover_image: /bj.jpeg
 
 # Gems
 plugins:
@@ -43,7 +43,7 @@ lang: en
 sass:
   sass_dir: _sass
   style: :compressed
-
+  
 # Options
 
 # Replace this value and uncomment to enable Google Analytics tracking
