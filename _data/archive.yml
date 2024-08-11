@@ -1,6 +1,9 @@
 - type: dates
   title: Publications
   url: /publications/
+- type: dates
+  title: Experience
+  url: /experience/
 #- type: categories
 #  title: Categories
 #  url: /categories/
