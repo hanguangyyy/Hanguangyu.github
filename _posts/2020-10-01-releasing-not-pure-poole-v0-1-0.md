@@ -1,14 +1,12 @@
 ---
 layout: post
-title: Releasing Not Pure Poole v0.1.0
-author: Songzi Vong
+title: Bachelor of Geographic Information Science
 tags:
-- jekyll theme
-- jekyll
+- GIS
 date: 2024-08-01 13:56 +0800
 ---
-The Jekyll theme **Not Pure Poole** v0.1.0 was released!
+<h1>China University of Geosciences Beijing, China</h1>
 
-Not Pure Poole is a simple, beautiful, and powerful Jekyll theme for blogs. It is built on [Poole](https://github.com/poole/poole) and [Pure](https://purecss.io/).
+<h2>GPA: 3.37 / 4.00</h2>
 
-For more information about this theme, you can read the [README](https://github.com/vszhub/not-pure-poole/blob/master/README.md) file.
+Main course: Principles of GIS (93), Principles of Spatial Database (90), GIS Spatial Analysis (95), Image processing of Remote sensing (90), Fundamentals of Data Structure (88), Urban Geographic Information System (90)
