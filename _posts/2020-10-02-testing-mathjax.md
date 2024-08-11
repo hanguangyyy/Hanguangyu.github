@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Master of Surveying and Mapping Engineering
+title: Master of Surveying and Mapping Engineering, Sep 2022 - Jun 2025 (Expected)
 tags:
 - GIS
 date: 2024-08-01 13:56 +0800
