@@ -1,17 +1,10 @@
 ---
 layout: post
-title: Testing MathJax
-tags: mathjax
-math: true
+title: Master of Surveying and Mapping Engineering
 date: 2024-08-01 13:56 +0800
 ---
-Not Pure Poole supports [MathJax](https://www.mathjax.org/). You can enable it on a page by setting `math: true` in the front matter.
+<h1>China University of Geosciences Beijing, China</h1>
 
-An inline math: \\\(E=mc^2\\\).
+<h1>GPA: 3.64 / 4.00</h1>
 
-A display math:
-
-$$
-i\hbar \frac{\partial \Psi}{\partial t} = -\frac{\hbar^2}{2m}
-\frac{\partial^2 \Psi}{\partial x^2} + V \Psi
-$$
+Main course: Python Advanced Scientific Computing (96), Intelligent Processing of Remote Sensing Images (90.5), Spatial Analysis Model (89), Scientific Writing (93), Remote Sensing Geoscience Model (87), Engineering Ethics (94)
