@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Bachelor of Geographic Information Science
+title: Bachelor of Geographic Information Science, Sep 2018 - Jun 2022
 tags:
 - GIS
 date: 2024-08-01 13:56 +0800
