@@ -1,6 +1,8 @@
 ---
 layout: post
 title: Master of Surveying and Mapping Engineering
+tags:
+- GIS
 date: 2024-08-01 13:56 +0800
 ---
 <h1>China University of Geosciences Beijing, China</h1>
