@@ -1,5 +1,5 @@
 ---
 layout: archive-dates
-permalink: /publications/
+permalink: /dates/
 title: Publications
 ---
